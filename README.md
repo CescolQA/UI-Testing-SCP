@@ -7,4 +7,4 @@
     ✔ Derivación de Casos de Pruebas
       ✔ Pruebas Exploratorias
 
-<< En las archivos adjuntos está desglosado la US con todo el desarrollo del proceso QA. Check it out! >>
+<< En los archivos adjuntos está desglosado la US con todo el desarrollo del proceso QA. Check it out! >>
